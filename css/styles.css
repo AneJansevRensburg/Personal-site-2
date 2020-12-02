@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+h1, h2 {
+    font-family: 'Sacramento', cursive;
+}
+h3 {
+    font-family: 'Caveat', cursive;
+}
+hr {
+    border: dotted white 7px; 
+    border-bottom: none;
+    width: 20%;
+    margin: 50px auto 25px;
+}
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #bce6eb;
+    height: 666px;
+}
+.middle-container {
+    padding: 50px 50px 20px 50px;
+    background-color: #fceef5;
+}
+.bottom-container {
+    background-color: #f3eac2;
+    padding: 0 0 1px 0;
+}
+.pro {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    height: 60px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 280px;
+    bottom: 400px;
+    height: 60px;
+}
+.mountain {
+    height:454px;
+}
+.programmer {
+    font-family: 'Patrick Hand', cursive;
+    color: #16a596;
+}
+.heading {
+    margin-top: 0;
+    font-size: 75px;
+    font-family: 'Sacramento', cursive;
+    color: #16a596;
+}
+.profile {
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+    line-height: normal;
+}
+.girl-img {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.skills {
+    margin-top: 50px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.laptop-img{ 
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.mtb-img {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.piano-img {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.myButton1 {
+	box-shadow:inset 0px 1px 0px 0px #fce2c1;
+	background:linear-gradient(to bottom, #ffc477 5%, #fb9e25 100%);
+	background-color:#ffc477;
+	border-radius:6px;
+	border:1px solid #eeb44f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #cc9f52;
+}
+.myButton1:hover {
+	background:linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+	background-color:#fb9e25;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	background-color:#bddbfa;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	background-color:#80b5ea;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+.freepik, .flaticon {
+    color: black;
+    text-decoration: none;
+}
+.freepik:hover, .flaticon:hover {
+    color: #528ecc;
+    text-decoration: underline;
+}
+.copyright {
+    font-size: 0.75rem;
+}
